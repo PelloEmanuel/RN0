@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Hola Mundo",
+    "slug": "1-hola-mundo",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "automatic",
+    "platforms": ["ios", "android", "web"]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Componentes Nativos",
+    "slug": "2-componentes-nativos",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "automatic",
+    "platforms": ["ios", "android", "web"]
+  }
+}
